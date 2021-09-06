@@ -1,1 +1,3 @@
 # Tribute-Page
+
+pure CSS.
